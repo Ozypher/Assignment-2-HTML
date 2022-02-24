@@ -1,0 +1,118 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+
+.col-sm {
+    background-color: white;
+    margin: 20px;
+}
+
+.logo {
+    width: 250px;
+}
+
+.mainHeader {
+    font-size: 32px;
+    color: black;
+    font-weight: lighter;
+    padding-left: 3%;
+    padding-top: 1%;
+}
+
+.titles {
+    color: darkblue;
+    text-align: center;
+    font-size: 16px;
+}
+
+.dates {
+    margin-top: 12px;
+    text-align: right;
+    margin-bottom: 0px;
+}
+
+.publisher {
+    margin: 0px;
+    padding: 0px;
+}
+
+.tagTitle {
+    color: darkgray; 
+    font-weight: bold;
+}
+
+.Tags {
+    color: black;
+    font-size: 14px;
+}
+
+.button {
+    background-color: orange;
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    position: absolute;
+    top: 5.5%;
+    right: 8.2%;
+}
+
+.topbar {
+    width: 99.99%;
+}
+
+.cardbox {
+    background-color: lightgray;
+    height: 85.7%;
+    width: 99.99%;
+}
+
+ul {
+    list-style: none;
+    margin: 0px 0px;
+    position: absolute;
+    left: 3%;
+    bottom: 3%;
+    padding: 0px 0px;
+}
+
+ul li {
+    float: left;
+    padding: 4px 12px;
+    background-color: rgb(92, 173, 240);
+    border: 1px white solid;
+}
+
+ul li:hover {
+    background-color: goldenrod;
+}
+
+.activeli {
+    background-color: goldenrod;
+}
+
+.images {
+    margin-top: 4%;
+    margin-bottom: 8%;
+    margin-left: 12%;
+    width: 250px;
+}
+
+.images2 {
+    margin-top: 4%;
+    margin-bottom: 8%;
+    margin-left: 14%;
+    width: 250px;
+}
+
+.images3 {
+    margin-top: 4%;
+    margin-bottom: 8%;
+    margin-left: 17%;
+    width: 250px;
+}
